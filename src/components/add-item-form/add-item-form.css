@@ -1,0 +1,25 @@
+.add-form {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.add-form__inner {
+    position: relative;
+}
+
+.add-form__error {
+    margin: 5px 0;
+    position: absolute;
+    color: red;
+    font-size: 14px;
+}
+
+.add-form-wrapper {
+    padding: 24px 0;
+    margin-bottom: 16px;
+}
+
+.add-form__button {
+    cursor: pointer;
+}

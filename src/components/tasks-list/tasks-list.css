@@ -1,0 +1,17 @@
+.filter-active {
+    background-color: green;
+}
+
+.tasks-list {
+    list-style: none;
+}
+
+.task-item {
+    position: relative;
+    padding: 24px;
+}
+
+.task-button {
+    display: flex;
+    gap: 16px;
+}
